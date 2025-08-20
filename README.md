@@ -8,6 +8,7 @@ Each program is small, simple, and meaningful.
 - **calculator.cpp** → Simple Calculator (supports +, -, *, /, %, ^)  
 - **tic_tac_toe.cpp** → Tic Tac Toe (2-player console game)  
 - **number_guessing.cpp** → Number Guessing Game (random number between 1–100)
+- **factorial.cpp** → Factorial Calculator (computes factorial of a positive integer)
 
 ## How to Run
 1. Compile the program using g++:
