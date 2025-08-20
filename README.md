@@ -10,6 +10,7 @@ Each program is small, simple, and meaningful.
 - **number_guessing.cpp** → Number Guessing Game (random number between 1–100)
 - **factorial.cpp** → Factorial Calculator (computes factorial of a positive integer)
 - **todo_list.cpp** → To-Do List Manager (add, view, and delete tasks)
+- **hangman.cpp** → Hangman Game (guess a random word letter by letter)
 
 ## How to Run
 1. Compile the program using g++:
